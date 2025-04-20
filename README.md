@@ -1,9 +1,11 @@
 # 🏠 House Price Prediction API
-
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%F0%9F%90%8D-green)](https://fastapi.tiangolo.com/)
 [![License: Private](https://img.shields.io/badge/license-private-lightgrey)]()
 [![Status](https://img.shields.io/badge/status-working-success)]()
+
+![Screenshot 2025-04-20 211109](https://github.com/user-attachments/assets/b84f57e6-fd52-4ea8-82e5-d2ed867c0ac7)
+
 
 A Machine Learning API for predicting California housing prices, inspired by Chapter 2 of *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron. This project walks through the full pipeline, from data preprocessing to prediction, exposed as a simple API using **FastAPI**.
 
