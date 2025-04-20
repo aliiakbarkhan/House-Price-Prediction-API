@@ -84,6 +84,13 @@ Send a JSON payload like:
 ```
 ## Graphs and Visuals
 
+| Plot Description                                         | Image |
+|----------------------------------------------------------|-------|
+| Geographical Plot                                        | ![Geographical Plot](https://github.com/aliiakbarkhan/House-Price-Prediction-API/blob/main/graphs/geographical%20data.png) |
+| Pairplot: Every numerical feature against every other    | ![Pairplot](https://github.com/aliiakbarkhan/House-Price-Prediction-API/blob/main/graphs/every%20numerical%20attribute%20against%20every%20other%20numerical%20attribute.png) |
+| Histograms for each numerical feature                    | ![Histograms](https://github.com/aliiakbarkhan/House-Price-Prediction-API/blob/main/graphs/histogram%20for%20each%20numerical%20attribute.png) |
+| Jet-colored housing prices by location and population    | ![Jet Graph](https://github.com/aliiakbarkhan/House-Price-Prediction-API/blob/main/graphs/geographical%20data%20jet.png) |
+
 
 ##  Model
 - Algorithm Used: Random Forest Regressor.
