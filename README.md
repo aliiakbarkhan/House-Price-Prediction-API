@@ -51,7 +51,7 @@ uvicorn main:app --reload
 ```
 
 
-## How to Use the API
+## 🧪 How to Use the API
 
 
 Once running, the API will be available at:
@@ -59,7 +59,7 @@ Once running, the API will be available at:
 http://127.0.0.1:8000/docs
 ```
 
-## Post / Predict
+## 📥 Post / Predict
 Send a JSON payload like:
 ```bash
 {
@@ -76,13 +76,13 @@ Send a JSON payload like:
 
 
 ```
-## Response
+## 📤 Response
 ```bash
 {
   "prediction": 452100.0 (which is $4,52,100)
 }
 ```
-## Graphs and Visuals
+## 📊 Graphs and Visuals
 
 | Plot Description                                         | Image |
 |----------------------------------------------------------|-------|
@@ -92,13 +92,13 @@ Send a JSON payload like:
 | Jet-colored housing prices by location and population    | ![Jet Graph](https://github.com/aliiakbarkhan/House-Price-Prediction-API/blob/main/graphs/geographical%20data%20jet.png) |
 
 
-##  Model
+## 🧠 Model
 - Algorithm Used: Random Forest Regressor.
 - Data Source: California Housing Dataset.
 - Feature Engineering: Custom transformer CombinedAttributesAdder for feature addition.
 - Evaluation Metrics: RMSE (Root Mean Squared Error).
 
-## Project Structure
+## 📁 Project Structure
 ```bash
 ├── datasets                 # Datasets Folder
 ├── graphs                 # Visual Graphs Folder
@@ -112,14 +112,17 @@ Send a JSON payload like:
 
 ```
 
-##  Development & Learning Source
+##  🧪 Development & Learning Source
 This project is inspired by the practical walkthrough in Chapter 2 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron.
 
-## Author
+## 👨‍💻 Author
 - Ali Akbar Khan
 - **Email**: aliakbarkhana79@gmail.com
 - **LinkedIn**: [aliakbar-khan](https://www.linkedin.com/in/aliakbar-khan)
 
-## License
+## ➕ Additional Features
+- This project goes beyond the textbook by converting the model into a real-world FastAPI-based API.
+
+## 🔒 License
 
 https://github.com/user-attachments/assets/af7a9530-cbef-4cb4-8f47-7d2a0691824d
